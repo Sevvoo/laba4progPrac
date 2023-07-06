@@ -1,0 +1,4 @@
+﻿  Source.c
+D:\SelfWork\22\Project1\Source.c(4,17): error C2057: требуется константное выражение
+D:\SelfWork\22\Project1\Source.c(4,17): error C2466: невозможно выделить память для массива постоянного нулевого размера
+D:\SelfWork\22\Project1\Source.c(4,18): error C2133: dp: неизвестный размер
